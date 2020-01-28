@@ -5,6 +5,6 @@ import './screens/search.dart';
 void main() => runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
   theme: ThemeData(fontFamily: 'iransans'),
-  title: 'instagram',
+  title: 'test-b insta',
   home: Home(),
 ));
